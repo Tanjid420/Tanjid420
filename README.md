@@ -6,9 +6,9 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-tangid.vercel.app/](https://portfolio-tangid.vercel.app/)
 
-- 💬 Ask me about **DSA,OOP,SQL,Javascript,React**
+- 💬 Ask me about **Testing, Playwright, Javascript**
 
-- 📫 How to reach me **tanjidkhanarnob2000@gmail.com**
+- 📫 How to reach me **mdtangidkhan54@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
